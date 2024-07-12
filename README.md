@@ -1,7 +1,6 @@
 # Hi there, I'm Hari Sankar R! 👋
 
 Welcome to my GitHub profile!
--Software Trainee Intern at Infiniti Software Solutions, Chennai.
 
 ## About Me
 - ⚡ Software Trainee Intern at Infiniti Software Solutions, Chennai.
